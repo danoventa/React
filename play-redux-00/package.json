@@ -1,0 +1,29 @@
+{
+  "name": "play-redux-00",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.3.0",
+    "immutable": "^3.8.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.1",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "flow": "flow"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-jest": "^22.4.3",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.68.0",
+    "jest": "^22.4.3",
+    "redux-devtools": "^3.4.1"
+  }
+}
